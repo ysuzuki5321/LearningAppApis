@@ -1,0 +1,10 @@
+[package]
+name = "jwt_auth"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+jsonwebtoken = "7.2.0"
+pem = "1.1.1"

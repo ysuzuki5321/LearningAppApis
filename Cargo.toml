@@ -1,7 +1,7 @@
 [workspace]
 members = [
-    "mylib",
-    "bin1",
-    "bin2",
+    "jwt_auth",
+    "application_settings",
+    "sql_server_connector"
 ]
 
